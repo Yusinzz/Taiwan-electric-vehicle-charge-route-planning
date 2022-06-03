@@ -4,3 +4,5 @@
 
 use the Googlemap API to find the accurate position.
 https://developers.google.com/maps/documentation/places/web-service?hl=zh-tw
+
+and filter the elctric vehicle station to calculate a best route to the 
